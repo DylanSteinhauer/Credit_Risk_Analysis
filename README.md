@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 ## Purpose
-This machine learning project used scikit-learn and imbalanced-learn to train and evaluate models to determine credit card risk using a credit card credit dataset.
+This machine learning project used scikit-learn and imbalanced-learn to train and evaluate models to determine credit card risk using a credit card dataset.
 Six different techniques were used to train and evaluate models to determine credit risk: Oversampling with the RandomOverSampler and SMOTE algorithms, Undersampling with the ClusterCentroids algorithm, a combination of over and under sampling with the SMOTEENN algorithm, and two machine learning models that reduce bias - the BalancedRandomForestClassifer and EasyEnsembleClassifier.
 ## Results
 ### Naive Random Oversampling
